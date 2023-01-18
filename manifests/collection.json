@@ -1,0 +1,15 @@
+{
+  "id" : "https://geourjoa-tetras.github.io/Test1/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in geourjoa-tetras/Test1 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://geourjoa-tetras.github.io/Test1/manifests/test1.json",
+    "label" : {
+      "en" : [ "Salut " ]
+    },
+    "type" : "Manifest"
+  } ]
+}
