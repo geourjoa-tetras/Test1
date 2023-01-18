@@ -11,5 +11,11 @@
       "en" : [ "Salut " ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://geourjoa-tetras.github.io/Test1/manifests/test2.json",
+    "label" : {
+      "en" : [ "Salut " ]
+    },
+    "type" : "Manifest"
   } ]
 }
